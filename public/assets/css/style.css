@@ -75,6 +75,7 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
+	white-space: nowrap;
 	margin: 0 auto;
 }
 
@@ -376,4 +377,11 @@ footer #copyright {
 footer #contact a {
 	text-decoration: none;
 	color: inherit;
+}
+
+
+@media (max-width: 1024px) {
+	:root {
+		--base-padding: 4rem;
+	}
 }

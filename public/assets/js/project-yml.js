@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
 	const currentLang = document.documentElement.lang || 'ko';
-	console.log("currentLang: ", currentLang);
 
 	fetch("/assets/yml/project.yml")
 		.then(response => response.text())
