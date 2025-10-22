@@ -1,0 +1,30 @@
+- title: covify
+  image: /assets/image/projects/covify.png
+  description:
+    ko: 애플뮤직 플레이리스트 커버 제작 페이지
+    en: Apple Music playlist cover creation page
+    ja: Apple Musicプレイリストカバー作成ページ
+  tech: HTML, CSS, JavaScript
+  github-url: https://github.com/devhaaana/covify/
+  vercel-url: https://covify.vercel.app/
+
+- title: radiweb
+  image: /assets/image/projects/radiweb.png
+  description:
+    ko: 일본 라디오 서비스 radiko 실시간 스트리밍 페이지
+    en: Real-time streaming page for Japanese radio service radiko
+    ja: 日本のラジオサービスradikoのリアルタイムストリーミングページ
+  tech: HTML, CSS, JavaScript
+  github-url: https://github.com/devhaaana/radiweb/
+  vercel-url: https://radiweb.vercel.app/
+
+- title: SeismoLiveJP
+  image: /assets/image/projects/seismolivejp.png
+  description:
+    ko: 일본 지진 데이터 실시간 모니터링 페이지
+    en: Real-time monitoring page for Japanese earthquake data
+    ja: 日本の地震データのリアルタイムモニタリングページ
+  tech: HTML, CSS, JavaScript
+  github-url: https://github.com/devhaaana/seismo-live-jp/
+  vercel-url: https://seismo-live-jp.vercel.app/
+
