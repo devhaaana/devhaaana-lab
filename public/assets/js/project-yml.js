@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 				item.innerHTML = `
 					<div class="project-image-section">
-						<a href="${project['github-url'] || '#'}" target="_blank">
+						<a href="${project['vercel-url'] || '#'}" target="_blank">
 						<img src="${project.image}" alt="${project.title}">
 						</a>
 					</div>
